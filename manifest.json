@@ -1,6 +1,6 @@
 {
     "name": "ChesterStoneHoardingBug",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/PleaseRedoMyCode/ChesterStoneHoardingBug",
     "description": "Replaces hoarding bug chitter and anger sounds with randomized Chester Stone clips.",
     "dependencies": [
