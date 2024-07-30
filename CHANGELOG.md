@@ -1,3 +1,6 @@
+## v1.0.3
+* Fixed thunderstore install directories for real this time.
+
 ## v1.0.2
 * Fixed directories
 

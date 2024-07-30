@@ -1,9 +1,10 @@
 {
     "name": "ChesterStoneHoardingBug",
-    "version_number": "1.0.2",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/PleaseRedoMyCode/ChesterStoneHoardingBug",
     "description": "Replaces hoarding bug chitter and anger sounds with randomized Chester Stone clips.",
     "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
         "loaforc-loaforcsSoundAPI-1.1.7",
         "Hardy-LCMaxSoundsFix-1.2.0"
     ]
