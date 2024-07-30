@@ -1,0 +1,182 @@
+{
+    "randomness": {
+      "type": "determinstic"
+    },
+    "replacements": [
+      {
+        "matches": ["HoarderBug:Voice:Chitter1","HoarderBug:Voice:Chitter2","HoarderBug:Voice:Chitter3"],
+        "sounds": [
+          {
+            "sound": "chester_bug_chitter/7000 dollars this is yours.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_chitter/A Cuban Sandwhich.ogg",
+            "weight": 50
+          },
+          {
+            "sound": "chester_bug_chitter/A gd banana.ogg",
+            "weight": 100
+          },
+          {
+            "sound": "chester_bug_chitter/A Monkey.ogg",
+            "weight": 100
+          },          {
+            "sound": "chester_bug_chitter/All I want is 7000 dollars.ogg",
+            "weight": 100
+          },
+          {
+            "sound": "chester_bug_chitter/Chester Laugh.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_chitter/Chester meow.ogg",
+            "weight": 25
+          },
+          {
+            "sound": "chester_bug_chitter/Chester Sings 1.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/Chester Sings 2.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/Chester Sings 3.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/Chester Sings 4.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/Dont forget to vote for chesterstone.ogg",
+            "weight": 120
+          },
+          {
+            "sound": "chester_bug_chitter/Excuse sir when is the next bus coming.ogg",
+            "weight": 120
+          },
+          {
+            "sound": "chester_bug_chitter/Go get me a pack of new ports.ogg",
+            "weight": 120
+          },
+          {
+            "sound": "chester_bug_chitter/Huh What.ogg",
+            "weight": 90
+          },
+          {
+            "sound": "chester_bug_chitter/I missed the bus.ogg",
+            "weight": 100
+          },
+          {
+            "sound": "chester_bug_chitter/I wanna ___ sandwhich.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_chitter/I wanna buy this racing car clip.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_chitter/Im the richest _____ in the world.ogg",
+            "weight": 40
+          },          
+          {
+            "sound": "chester_bug_chitter/imma be the richest ___ in the hood.ogg",
+            "weight": 40
+          },
+          {
+            "sound": "chester_bug_chitter/Its spiderman.ogg",
+            "weight": 90
+          },
+          {
+            "sound": "chester_bug_chitter/My favorite number is 7.ogg",
+            "weight": 90
+          },
+          {
+            "sound": "chester_bug_chitter/OMG Four Quarters.ogg",
+            "weight": 80
+          },
+          {
+            "sound": "chester_bug_chitter/This clock is nice.ogg",
+            "weight": 40
+          },
+          {
+            "sound": "chester_bug_chitter/Wassuhh.ogg",
+            "weight": 95
+          },
+          {
+            "sound": "chester_bug_chitter/We getting arab money.ogg",
+            "weight": 90
+          },
+          {
+            "sound": "chester_bug_chitter/What is in this bag.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/You gonna vote for chesterstone.ogg",
+            "weight": 100
+          },
+
+          {
+            "sound": "chester_bug_chitter/Look at this ancient clock here 2.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_chitter/Monkey - Full.ogg",
+            "weight": 7
+          },
+          {
+            "sound": "chester_bug_chitter/Arab Money - Full.ogg",
+            "weight": 7
+          },
+          {
+            "sound": "chester_bug_chitter/GMFD 1.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/GMFD 2.ogg",
+            "weight": 30
+          },
+          {
+            "sound": "chester_bug_chitter/GMFD 3.ogg",
+            "weight": 30
+          }
+
+        ]
+      },
+      {
+        "matches": ["HoarderBug:Voice:AngryScreech", "HoarderBug:Voice:AngryScreech2"],
+        "sounds": [
+          {
+            "sound": "chester_bug_angry/I will body slam your.ogg",
+            "weight": 100
+          },
+          {
+            "sound": "chester_bug_angry/Im hauling.ogg",
+            "weight": 80
+          },
+          {
+            "sound": "chester_bug_angry/What happened to my clock.ogg",
+            "weight": 60
+          },
+          {
+            "sound": "chester_bug_angry/WHAT Ill beat yo.ogg",
+            "weight": 110
+          },
+          {
+            "sound": "chester_bug_angry/When is the next bus - angry.ogg",
+            "weight": 80
+          },
+          {
+            "sound": "chester_bug_angry/you fing with no chester stone.ogg",
+            "weight": 100
+          },
+          {
+            "sound": "chester_bug_chitter/You gonna vote for chesterstone.ogg",
+            "weight": 70
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+{
+    "name": "ChesterStoneHoardingBug",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces hoarding bug chitter and anger sounds with randomized Chester Stone clips.",
+    "dependencies": [
+        "loaforc-loaforcsSoundAPI-1.1.7",
+        "Hardy-LCMaxSoundsFix-1.2.0"
+    ]
+}
