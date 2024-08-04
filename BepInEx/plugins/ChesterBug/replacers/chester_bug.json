@@ -4,7 +4,7 @@
     },
     "replacements": [
       {
-        "matches": ["HoarderBug:Voice:Chitter1","HoarderBug:Voice:Chitter2","HoarderBug:Voice:Chitter3"],
+        "matches": ["AnimContainer:Voice:Chitter1","AnimContainer:Voice:Chitter2","AnimContainer:Voice:Chitter3"],
         "sounds": [
           {
             "sound": "chester_bug_chitter/7000 dollars this is yours.ogg",
@@ -21,7 +21,8 @@
           {
             "sound": "chester_bug_chitter/A Monkey.ogg",
             "weight": 100
-          },          {
+          },          
+          {
             "sound": "chester_bug_chitter/All I want is 7000 dollars.ogg",
             "weight": 100
           },
@@ -146,7 +147,7 @@
         ]
       },
       {
-        "matches": ["HoarderBug:Voice:AngryScreech", "HoarderBug:Voice:AngryScreech2"],
+        "matches": ["AnimContainer:Voice:AngryScreech", "AnimContainer:Voice:AngryScreech2"],
         "sounds": [
           {
             "sound": "chester_bug_angry/I will body slam your.ogg",

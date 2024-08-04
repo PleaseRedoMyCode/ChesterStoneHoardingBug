@@ -1,3 +1,6 @@
+## v1.0.4
+* Fixed audio replacer not pointing to the right source. Audio actually plays now
+
 ## v1.0.3
 * Fixed thunderstore install directories for real this time.
 
