@@ -1,3 +1,6 @@
+## v1.0.5
+* Increased volume of clips
+
 ## v1.0.4
 * Fixed audio replacer not pointing to the right source. Audio actually plays now
 
